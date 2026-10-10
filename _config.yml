@@ -1,0 +1,38 @@
+title: Miss Midlife AI
+description: Notes from experimenting with AI agents.
+url: "https://missmidlifeai.github.io"
+baseurl: ""
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: default
+locale: en-US
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-sitemap
+paginate: 10
+paginate_path: /page:num/
+include:
+  - _pages
+author:
+  name: Miss Midlife AI
+  bio: "Trying out AI agents and writing down what actually works."
+footer:
+  links: []
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      share: false
+      related: true
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
