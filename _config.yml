@@ -5,6 +5,7 @@ baseurl: ""
 remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: default
 locale: en-US
+timezone: America/New_York
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
