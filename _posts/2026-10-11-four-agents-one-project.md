@@ -1,6 +1,6 @@
 ---
 title: "Four agents, one project: my first try at an AI team"
-date: 2026-10-11 07:00:00 -0400
+date: 2026-10-11 06:30:00 -0400
 excerpt: "Pooling agents from different platforms to finish one real project."
 ---
 I had several AI agents on different platforms, each good at different things. I wanted to see if I could pool them and use their individual strengths to complete one real project together.
