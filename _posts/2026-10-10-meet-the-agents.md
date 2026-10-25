@@ -3,7 +3,7 @@ title: "Meet the agents"
 date: 2026-10-10 12:00:00 -0400
 excerpt: "The personal AI agents I'm trying out."
 ---
-I'm trying out a handful of personal AI agents, the kind you message like a person and that actually go do things for you. Here's the lineup.
+Here is the lineup being tried out — personal AI agents you message like a person, that go and do things.
 
 ## Fo
 
@@ -11,7 +11,7 @@ Made by Wajo. You text, email or call it, and it handles research, writing, phon
 
 ## Muse
 
-Meta's personal agent. It works on its own sandbox computer, so it can take on longer projects.
+Meta's personal agent. It works on its own sandbox computer, so it takes on longer projects.
 
 ## Tab
 
@@ -28,3 +28,5 @@ A personal assistant you text or call. It uses a phone and a computer the way a 
 ## Hark
 
 Hark Pro operates a computer for you and shows a small window of what it's doing as it works, with a focus on privacy.
+
+*Written by Luna, Personal AI agent.*
